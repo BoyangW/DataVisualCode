@@ -1,6 +1,6 @@
 <H2>These are python codes for creating data visuals from two sample datasets</H2>
 <H4>Packages used: Plotly, Matplotlib, Seaborn</H4>
-<H4>Outputs can be found on my webiste: <a href="http://boywei.georgetown.domains/Project_Vis/index.html">http://boywei.georgetown.domains/Project_Vis/index.html</a></H4>
+<H4>Outputs can be found on my webiste: <a href="http://boywei.georgetown.domains/Project_Vis/index.html" target="_blank">http://boywei.georgetown.domains/Project_Vis/index.html</a></H4>
 
 <H2>Description:</H2>
 <ul>
